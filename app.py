@@ -90,8 +90,8 @@ def main():
 
     """, unsafe_allow_html=True)
 
-    st.title("Credit Risk Prediction")
-    st.subheader("Evaluate Borrower Risk Based on Financial and Demographic Data")
+    st.title("💰 Credit Risk Prediction")
+    st.subheader("📊 Evaluate Borrower Risk Based on Financial and Demographic Data")
 
     # Load pre-trained model pipeline
     model_pipeline = load_model()
